@@ -1,0 +1,51 @@
+D:\Dotnet Najot talim\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.deps.json
+D:\Dotnet Najot talim\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.dll
+D:\Dotnet Najot talim\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.pdb
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.AssemblyReference.cache
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.AssemblyInfoInputs.cache
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.AssemblyInfo.cs
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.CoreCompileInputs.cache
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.dll
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\refint\Bank.Service.dll
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.pdb
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\ref\Bank.Service.dll
+D:\Dotnet Najot talim\Bank\Bank.Service\bin\Debug\net6.0\Bank.Data.dll
+D:\Dotnet Najot talim\Bank\Bank.Service\bin\Debug\net6.0\Bank.Domain.dll
+D:\Dotnet Najot talim\Bank\Bank.Service\bin\Debug\net6.0\Bank.Data.pdb
+D:\Dotnet Najot talim\Bank\Bank.Service\bin\Debug\net6.0\Bank.Domain.pdb
+D:\Dotnet Najot talim\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.CopyComplete
+D:\New Folder (2)\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.deps.json
+D:\New Folder (2)\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.dll
+D:\New Folder (2)\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.pdb
+D:\New Folder (2)\Bank\Bank.Service\bin\Debug\net6.0\Bank.Data.dll
+D:\New Folder (2)\Bank\Bank.Service\bin\Debug\net6.0\Bank.Domain.dll
+D:\New Folder (2)\Bank\Bank.Service\bin\Debug\net6.0\Bank.Data.pdb
+D:\New Folder (2)\Bank\Bank.Service\bin\Debug\net6.0\Bank.Domain.pdb
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.AssemblyReference.cache
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.AssemblyInfoInputs.cache
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.AssemblyInfo.cs
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.CoreCompileInputs.cache
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.CopyComplete
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.dll
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\refint\Bank.Service.dll
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.pdb
+D:\New Folder (2)\Bank\Bank.Service\obj\Debug\net6.0\ref\Bank.Service.dll
+D:\Bank\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.deps.json
+D:\Bank\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.dll
+D:\Bank\Bank\Bank.Service\bin\Debug\net6.0\Bank.Service.pdb
+D:\Bank\Bank\Bank.Service\bin\Debug\net6.0\Bank.Data.dll
+D:\Bank\Bank\Bank.Service\bin\Debug\net6.0\Bank.Domain.dll
+D:\Bank\Bank\Bank.Service\bin\Debug\net6.0\Bank.Data.pdb
+D:\Bank\Bank\Bank.Service\bin\Debug\net6.0\Bank.Domain.pdb
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.AssemblyReference.cache
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.AssemblyInfoInputs.cache
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.AssemblyInfo.cs
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.CoreCompileInputs.cache
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.csproj.CopyComplete
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.dll
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\refint\Bank.Service.dll
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\Bank.Service.pdb
+D:\Bank\Bank\Bank.Service\obj\Debug\net6.0\ref\Bank.Service.dll

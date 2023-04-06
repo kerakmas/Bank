@@ -1,0 +1,255 @@
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\appsettings.json
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.staticwebassets.runtime.json
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.exe
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.deps.json
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.runtimeconfig.json
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.pdb
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.AssemblyReference.cache
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.AssemblyInfoInputs.cache
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.AssemblyInfo.cs
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.CoreCompileInputs.cache
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.RazorAssemblyInfo.cache
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.RazorAssemblyInfo.cs
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bank.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bank.Web.props
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bank.Web.props
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bank.Web.props
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\bundle\Bank.Web.styles.css
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bank.Web.bundle.scp.css
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\refint\Bank.Web.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.pdb
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.genruntimeconfig.cache
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\ref\Bank.Web.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Azure.Core.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Azure.Identity.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Data.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Domain.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Service.dll
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Service.pdb
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Data.pdb
+D:\Dotnet Najot talim\Bank\Bank.Web\bin\Debug\net6.0\Bank.Domain.pdb
+D:\Dotnet Najot talim\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.CopyComplete
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\appsettings.json
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.staticwebassets.runtime.json
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.exe
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.deps.json
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.runtimeconfig.json
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.pdb
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Azure.Core.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Azure.Identity.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Data.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Domain.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Service.dll
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Service.pdb
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Data.pdb
+D:\New Folder (2)\Bank\Bank.Web\bin\Debug\net6.0\Bank.Domain.pdb
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.AssemblyReference.cache
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.AssemblyInfoInputs.cache
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.AssemblyInfo.cs
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.CoreCompileInputs.cache
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.RazorAssemblyInfo.cache
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.RazorAssemblyInfo.cs
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bank.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bank.Web.props
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bank.Web.props
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bank.Web.props
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\bundle\Bank.Web.styles.css
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bank.Web.bundle.scp.css
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.CopyComplete
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.dll
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\refint\Bank.Web.dll
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.pdb
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.genruntimeconfig.cache
+D:\New Folder (2)\Bank\Bank.Web\obj\Debug\net6.0\ref\Bank.Web.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\appsettings.json
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.staticwebassets.runtime.json
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.exe
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.deps.json
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.runtimeconfig.json
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Web.pdb
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Azure.Core.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Azure.Identity.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Data.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Domain.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Service.dll
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Service.pdb
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Data.pdb
+D:\Bank\Bank\Bank.Web\bin\Debug\net6.0\Bank.Domain.pdb
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.AssemblyReference.cache
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.AssemblyInfoInputs.cache
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.AssemblyInfo.cs
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.CoreCompileInputs.cache
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.RazorAssemblyInfo.cache
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.RazorAssemblyInfo.cs
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bank.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bank.Web.props
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bank.Web.props
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bank.Web.props
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\bundle\Bank.Web.styles.css
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bank.Web.bundle.scp.css
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.csproj.CopyComplete
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.dll
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\refint\Bank.Web.dll
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.pdb
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\Bank.Web.genruntimeconfig.cache
+D:\Bank\Bank\Bank.Web\obj\Debug\net6.0\ref\Bank.Web.dll

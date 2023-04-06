@@ -1,0 +1,51 @@
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.AssemblyReference.cache
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.AssemblyInfoInputs.cache
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.AssemblyInfo.cs
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.CoreCompileInputs.cache
+D:\Dotnet Najot talim\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.deps.json
+D:\Dotnet Najot talim\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.runtimeconfig.json
+D:\Dotnet Najot talim\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.dll
+D:\Dotnet Najot talim\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.pdb
+D:\Dotnet Najot talim\Bank\Bank.Data\bin\Debug\net6.0\Bank.Domain.dll
+D:\Dotnet Najot talim\Bank\Bank.Data\bin\Debug\net6.0\Bank.Domain.pdb
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.CopyComplete
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.dll
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\refint\Bank.Data.dll
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.pdb
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.genruntimeconfig.cache
+D:\Dotnet Najot talim\Bank\Bank.Data\obj\Debug\net6.0\ref\Bank.Data.dll
+D:\New Folder (2)\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.deps.json
+D:\New Folder (2)\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.runtimeconfig.json
+D:\New Folder (2)\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.dll
+D:\New Folder (2)\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.pdb
+D:\New Folder (2)\Bank\Bank.Data\bin\Debug\net6.0\Bank.Domain.dll
+D:\New Folder (2)\Bank\Bank.Data\bin\Debug\net6.0\Bank.Domain.pdb
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.AssemblyReference.cache
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.AssemblyInfoInputs.cache
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.AssemblyInfo.cs
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.CoreCompileInputs.cache
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.CopyComplete
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.dll
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\refint\Bank.Data.dll
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.pdb
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.genruntimeconfig.cache
+D:\New Folder (2)\Bank\Bank.Data\obj\Debug\net6.0\ref\Bank.Data.dll
+D:\Bank\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.deps.json
+D:\Bank\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.runtimeconfig.json
+D:\Bank\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.dll
+D:\Bank\Bank\Bank.Data\bin\Debug\net6.0\Bank.Data.pdb
+D:\Bank\Bank\Bank.Data\bin\Debug\net6.0\Bank.Domain.dll
+D:\Bank\Bank\Bank.Data\bin\Debug\net6.0\Bank.Domain.pdb
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.AssemblyReference.cache
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.AssemblyInfoInputs.cache
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.AssemblyInfo.cs
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.CoreCompileInputs.cache
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.csproj.CopyComplete
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.dll
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\refint\Bank.Data.dll
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.pdb
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\Bank.Data.genruntimeconfig.cache
+D:\Bank\Bank\Bank.Data\obj\Debug\net6.0\ref\Bank.Data.dll

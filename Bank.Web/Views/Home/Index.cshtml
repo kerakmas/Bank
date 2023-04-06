@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<body class="p-5 text-center bg-image"
+     style="
+      background-image: url('https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFua3xlbnwwfHwwfHw%3D&w=1000&q=80');
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+    ">
+    <div class="mask" style="background-color: rgba(0, 0, 0, 0.6); margin-top: 200px; height: 400px;">
+        <div class="d-flex justify-content-center align-items-center h-100" style="padding: 100px,100px,100px,100px;">
+            <div class="text-white">
+                <h1 class="mb-3">Press Click me to Get started</h1>
+                <a class="btn btn-outline-light btn-lg" href="@Url.Action("Index","User")" role="button">Click me</a>
+            </div>
+        </div>
+    </div>
+</body>

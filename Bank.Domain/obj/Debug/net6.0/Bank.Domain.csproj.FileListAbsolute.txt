@@ -1,0 +1,36 @@
+D:\Dotnet Najot talim\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.deps.json
+D:\Dotnet Najot talim\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.dll
+D:\Dotnet Najot talim\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.pdb
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.csproj.AssemblyReference.cache
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfoInputs.cache
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfo.cs
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.dll
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\refint\Bank.Domain.dll
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.pdb
+D:\Dotnet Najot talim\Bank\Bank.Domain\obj\Debug\net6.0\ref\Bank.Domain.dll
+D:\New Folder (2)\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.deps.json
+D:\New Folder (2)\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.dll
+D:\New Folder (2)\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.pdb
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.csproj.AssemblyReference.cache
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfoInputs.cache
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfo.cs
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.csproj.CoreCompileInputs.cache
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.dll
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\refint\Bank.Domain.dll
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.pdb
+D:\New Folder (2)\Bank\Bank.Domain\obj\Debug\net6.0\ref\Bank.Domain.dll
+D:\Bank\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.deps.json
+D:\Bank\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.dll
+D:\Bank\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.pdb
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.csproj.AssemblyReference.cache
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfoInputs.cache
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfo.cs
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.csproj.CoreCompileInputs.cache
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.dll
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\refint\Bank.Domain.dll
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.pdb
+D:\Bank\Bank\Bank.Domain\obj\Debug\net6.0\ref\Bank.Domain.dll
